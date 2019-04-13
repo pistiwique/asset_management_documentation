@@ -1,5 +1,12 @@
 # Asset Management Blender 2.8
-
+v2.2.7
+* Fixed bug when creating a category that did not display the default icon
+* Fixed poor management of invalid libraries
+* Draw enum items in alphabetical order
+* Set the newest asset as active in the preview
+* Delete the default icon if the category is empty when adding a new
+ asset
+ ---
 v2.2.6
 * Fixed the bug that prevented the libraries from being displayed correctly 
 * Added list of lost libraries in the addon preferences
