@@ -1,4 +1,11 @@
 # Asset Management Blender 2.8
+
+v2.2.8
+* Export material asset with rendered (in image editor) or existing thumbnail 
+(on your computer).
+* Added option in the tool panel to display the IBL settings from meshes, 
+materials and scenes asset type.
+---
 v2.2.7
 * Fixed bug when creating a category that did not display the default icon
 * Fixed poor management of invalid libraries
