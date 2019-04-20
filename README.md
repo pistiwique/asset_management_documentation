@@ -1,5 +1,11 @@
 # Asset Management Blender 2.8
-
+v2.2.9
+* Export IBL with auto thumbnails render
+* Export scenes asset with rendered (in image editor) or existing thumbnail 
+(on your computer).
+* Moved "Preview size" and "Popup icon size" from assets to thumbnail 
+preferences.
+---
 v2.2.8
 * Export material asset with rendered (in image editor) or existing thumbnail 
 (on your computer).
