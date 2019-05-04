@@ -1,4 +1,9 @@
 # Asset Management Blender 2.8
+v2.3.1
+* auto path correction for "From computer" thumbnails
+* fixed bug for thumbnail in "Rendered" mode if it's different from "Render Result"
+* Reset the update of the "library_path" property to update the json
+---
 v2.3.0
 * New hierarchy system to replace collections/categories
 * Remove assets
