@@ -1,4 +1,9 @@
 # Asset Management Blender 2.8
+v2.3.0
+* New hierarchy system to replace collections/categories
+* Remove assets
+* Displaying several previews
+---
 v2.2.9
 * Export IBL with auto thumbnails render
 * Export scenes asset with rendered (in image editor) or existing thumbnail 
