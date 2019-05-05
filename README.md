@@ -1,4 +1,12 @@
 # Asset Management Blender 2.8
+v2.3.2
+* added preview visibility in the hierarchy
+* fixed bug if the active category of the previous blender session was deleted
+* added an error report if the targeted material is not found in the .blend 
+(in case of the material in the .blend does not have the same name as the 
+thumbnail)
+* fixed bug on adding ibl asset
+---
 v2.3.1
 * auto path correction for "From computer" thumbnails
 * fixed bug for thumbnail in "Rendered" mode if it's different from "Render Result"
