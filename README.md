@@ -1,4 +1,10 @@
 # Asset Management Blender 2.8
+v2.3.3
+* Added replace asset with an option to use the existing thumbnail
+* Added a ALT+click on any category to hide the hierarchy
+* Fixed bug on the rename category
+* Added edit asset tool
+---
 v2.3.2
 * added preview visibility in the hierarchy
 * fixed bug if the active category of the previous blender session was deleted
