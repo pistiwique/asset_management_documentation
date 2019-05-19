@@ -1,4 +1,10 @@
 # Asset Management Blender 2.8
+v2.3.4
+* link datas in the scene when we use the editing asset tool
+* remove the invalid libraries from the database
+* "lock import" added (to avoid importing an asset when you choose in the preview)
+* fixed bug when exporting ibl to the library
+---
 v2.3.3
 * Added replace asset with an option to use the existing thumbnail
 * Added a ALT+click on any category to hide the hierarchy
