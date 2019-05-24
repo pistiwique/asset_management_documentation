@@ -1,4 +1,8 @@
 # Asset Management Blender 2.8
+v2.3.5
+* fixed import bug with several preview displayed
+* resize preview to the maximum width of the N panel
+---
 v2.3.4
 * link datas in the scene when we use the editing asset tool
 * remove the invalid libraries from the database
