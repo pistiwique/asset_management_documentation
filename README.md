@@ -1,4 +1,9 @@
 # Asset Management Blender 2.8
+v2.3.6
+* fixed bug on the setup previous settings if the library haven't got any 
+asset type
+* fixed bug on the add new library
+---
 v2.3.5
 * fixed import bug with several preview displayed
 * resize preview to the maximum width of the N panel
