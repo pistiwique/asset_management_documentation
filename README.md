@@ -1,4 +1,7 @@
 # Asset Management Blender 2.8
+v2.3.7
+* Added auto thumbnail rendering for materials
+---
 v2.3.6
 * fixed bug on the setup previous settings if the library haven't got any 
 asset type
