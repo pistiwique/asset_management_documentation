@@ -1,4 +1,15 @@
 # Asset Management Blender 2.8
+v2.3.8
+* changed of the "library_path" property in the preferences that was confusing.
+You now have to select the "custom_filepaths" file to add your old libraries.
+This file is located at "your_old_main_library/extra_files/custom_filepaths"
+* added options for mesh assets
+   * Selected objects: Add selected objects if enabled else, only active object
+   * Parents: Automatically adds all the object's parents from the hierarchy
+   * Childrens: Automatically adds all the object's childrens from the 
+   hierarchy
+* fixed bug on the asset name when multiple preview are displayed
+---
 v2.3.7
 * Added auto thumbnail rendering for materials
 ---
