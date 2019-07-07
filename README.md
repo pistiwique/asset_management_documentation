@@ -1,4 +1,13 @@
 # Asset Management Blender 2.8
+v2.3.9
+* fixed a bug that prevented to display the "Add asset type" panel if the library did not already have at least 1 asset type
+* fixed release note display bug
+* changed delete confirmation from "CONFIRM" to "YES"
+* Added auto thumbnail rendering for assets
+* Removed "library path" from the preferences and replaced by a button to 
+search the file "custom_filepaths" to add the old 2.79 libraries 
+* Added youtube link for installation
+---
 v2.3.8
 * changed of the "library_path" property in the preferences that was confusing.
 You now have to select the "custom_filepaths" file to add your old libraries.
