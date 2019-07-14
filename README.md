@@ -1,4 +1,13 @@
 # Asset Management Blender 2.8
+v2.4.0
+* Little changes in the UI
+  * removed ".blend" in the preview assets name
+  * assets type take a little more place
+* The asset's collections are now kept when we add or import them in the 
+library
+* Fixed bug when an asset is added with an empty
+* Added asset rendering settings in the preferences
+---
 v2.3.9
 * fixed a bug that prevented to display the "Add asset type" panel if the library did not already have at least 1 asset type
 * fixed release note display bug
