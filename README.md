@@ -1,4 +1,8 @@
 # Asset Management Blender 2.8
+v2.4.1
+* Fixed bug for asset export with "Thumb" option enabled that did not save
+the filename in the addon data
+---
 v2.4.0
 * Little changes in the UI
   * removed ".blend" in the preview assets name
