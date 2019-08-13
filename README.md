@@ -1,4 +1,11 @@
 # Asset Management Blender 2.8
+v2.4.2
+* Fixed the bug for asset export with "Thumb" option enabled that display the
+asset in duplicate in the preview with the "replace" option activated.
+* Fixed the bug when exporting collections that sent all the objects present
+ in the collection (even those not selected)
+* Deleting the "blends" and "hdri" folders if the latter are empty (to avoid
+ an empty preview)
 v2.4.1
 * Fixed bug for asset export with "Thumb" option enabled that did not save
 the filename in the addon data
