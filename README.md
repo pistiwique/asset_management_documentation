@@ -1,4 +1,12 @@
 # Asset Management Blender 2.8
+v2.4.3
+* IBL setting were moved in the World panel.
+* Added the rename asset function.
+* Fixed the overlapping faces between assets and ground with the auto
+thumbnail rendering.
+* Added "move asset" function to move the active asset to another category.
+Also works if the category is in another library.
+---
 v2.4.2
 * Fixed the bug for asset export with "Thumb" option enabled that display the
 asset in duplicate in the preview with the "replace" option activated.
@@ -6,6 +14,7 @@ asset in duplicate in the preview with the "replace" option activated.
  in the collection (even those not selected)
 * Deleting the "blends" and "hdri" folders if the latter are empty (to avoid
  an empty preview)
+ ---
 v2.4.1
 * Fixed bug for asset export with "Thumb" option enabled that did not save
 the filename in the addon data
