@@ -1,4 +1,14 @@
 # Asset Management Blender 2.8
+v2.4.4
+* Removed "Edit asset" option for hdri asset.
+* Added "move category" function to move the active category to another
+category.
+Also works if the category is in another library.
+* Modification of the order of display of asset types to match the version
+prior to 2.8
+* Fixed bug displaying the preview in alphabetical order after adding an asset
+* Added OpenGl render for thumbnails
+---
 v2.4.3
 * IBL setting were moved in the World panel.
 * Added the rename asset function.
