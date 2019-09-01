@@ -1,4 +1,14 @@
 # Asset Management Blender 2.8
+v2.4.5
+* From now, clicking on the name of a category displays its subcategories in
+ addition to always passing it to the active category. The operation of the
+ arrow on the left remains unchanged
+* Added OpenGl render for scenes thumbnails (with and without camera)
+* Removed OpenGl render for materials thumbnails
+* Fixed bug exporting collections that shouldn't be exported
+* Added option to import the mesh type asset to the 3D cursor if there's no
+mesh or no selection in the scene
+---
 v2.4.4
 * Removed "Edit asset" option for hdri asset.
 * Added "move category" function to move the active category to another
