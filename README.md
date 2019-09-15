@@ -1,4 +1,10 @@
 # Asset Management Blender 2.8
+v2.4.6
+* The IBL options are now displayed for Cycles too in the world panel
+* Auto pack for the textures after exporting the asset
+* Added an operator to turn the ibl on the Z axis directly from the viewport
+ (CTRL+SHIFT+MIDDLEMOUSE by default)
+ ---
 v2.4.5
 * From now, clicking on the name of a category displays its subcategories in
  addition to always passing it to the active category. The operation of the
