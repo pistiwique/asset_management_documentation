@@ -1,4 +1,16 @@
 # Asset Management Blender 2.8
+v2.4.7
+* The IBL manipulator now works if the "Scene world" check box is enabled in
+ the "Material" shading
+* Fixed bug with relative path when adding a new library
+* Added "pack" option to pack or not the external files after exporting the
+ asset
+* Fixed API changed for the IBL rotation between 2.80 and 2.81
+* Meshes are now linked to the scene after export for the type of asset
+"meshes" and "scene" so that they are visible in the viewport if you open
+the .blend of the asset without the addon.
+* Fixed bug causing crashes with 2.79 asset with image textures in tiff format
+---
 v2.4.6
 * The IBL options are now displayed for Cycles too in the world panel
 * Auto pack for the textures after exporting the asset
