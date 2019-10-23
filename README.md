@@ -1,4 +1,13 @@
 # Asset Management Blender 2.8
+v2.4.8
+* Fixed the bug causing a blender crash if we added an asset with the
+replace asset and use_existing_material enabled.
+* You can now add any type of object with the automatic rendering "Cycles"
+and "Eevee"(objects that cannot receive materials will not be visible when
+rendered)
+* Added accessibility to the file browser of the active asset by clicking on
+"import asset" with SHIFT+click for assets, materials and scenes.
+---
 v2.4.7
 * The IBL manipulator now works if the "Scene world" check box is enabled in
  the "Material" shading
