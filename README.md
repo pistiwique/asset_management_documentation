@@ -1,4 +1,8 @@
 # Asset Management Blender 2.8
+v2.4.9
+* Added replace asset
+* Added shortcut to import the active asset directly in the scene
+---
 v2.4.8
 * Fixed the bug causing a blender crash if we added an asset with the
 replace asset and use_existing_material enabled.
