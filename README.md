@@ -1,4 +1,11 @@
 # Asset Management Blender 2.8
+v2.5.0
+* Added move library
+* Bug fixed:
+   - The mesh import with the option "import on 3D cursor" enabled was
+    done on the selection if there was one, instead of the 3D cursor.
+* Added the possibility to choose the category where to place AM
+---
 v2.4.9
 * Added replace asset
 * Added shortcut to import the active asset directly in the scene
