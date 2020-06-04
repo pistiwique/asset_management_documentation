@@ -1,4 +1,9 @@
 # Asset Management Blender 2.8
+v2.5.1
+* GroupPro supported
+* Bug fixed for keymaps
+* Bug fixed for popup with Blender 2.83
+---
 v2.5.0
 * Added move library
 * Bug fixed:
