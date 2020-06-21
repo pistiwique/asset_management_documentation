@@ -1,4 +1,11 @@
 # Asset Management Blender 2.8
+v2.5.2
+* Bug fixed for popup of the assets options
+* Added continuous grab for the solid and material viewport shading
+* Added an 'auto target' operator for the opengl render. This operator
+allows to automatically focus the  selection by taking into account the
+options Parents and Childrens.
+---
 v2.5.1
 * GroupPro supported
 * Bug fixed for keymaps
