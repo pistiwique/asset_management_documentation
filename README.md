@@ -1,4 +1,10 @@
 # Asset Management Blender 2.8
+v2.5.3
+* Fixes conflict with "restore_keymaps" operator
+* Fixes bug of display of the libraries enumeration 
+* Added 2.90 support for the export mesh and material 
+* Fixes bug that does not pack texture when exporting material with a thumbnail already rendered
+---
 v2.5.2
 * Bug fixed for popup of the assets options
 * Added continuous grab for the solid and material viewport shading
