@@ -1,4 +1,14 @@
-# Asset Management Blender 2.8
+# Asset Management Blender
+v2.5.4
+* Fixes bug causing a blender crash if we done a undo after an append from
+ the preview.
+* Fixes bug for the auto target of the OpenGl render if no objects are 
+  selected.
+* Fixes bug of output encoding with the export asset
+* Fixes bug on folder paths with some special characters.
+* Fixes of the bug which prevented to recover the last ui setting
+  (active library, active category and pinned categories).
+---
 v2.5.3
 * Fixes conflict with "restore_keymaps" operator
 * Fixes bug of display of the libraries enumeration 
