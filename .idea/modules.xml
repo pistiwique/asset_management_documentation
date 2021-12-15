@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/asset_management_update.iml" filepath="$PROJECT_DIR$/.idea/asset_management_update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/asset_management_documentation.iml" filepath="$PROJECT_DIR$/.idea/asset_management_documentation.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,18 @@
+site_name: Asset Management
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+theme:
+    name: readthedocs
+#    name: material
+
+nav:
+  - Installation: installation.md
+  - Libraries: libraries.md
+  - Support: support.md
+  - FAQ: FAQ.md
