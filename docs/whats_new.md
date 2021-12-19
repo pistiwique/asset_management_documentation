@@ -4,6 +4,8 @@
 * Complete rewriting of the addon
 * added a drag and drop for assets and materials
 * added the possibility to save collections
+* possibility to choose remapping type for textures
+* possibility to save textures in a separate folder
 
 ### v2.5.4
 * Fixes bug causing a blender crash if we done a undo after an append from
