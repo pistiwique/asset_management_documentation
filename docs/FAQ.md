@@ -12,7 +12,7 @@ By default, the **"Automatic check for update"** option is enabled in the
 addon 
 preferences.
 You can find it in the **"Options/Addon"** tab of the addon.
-<img src="http://blscripts.com/asset_management/images/ADDON_UPDATE_001.jpg"/>
+<img src="http://blscripts.com/asset_management_doc/images/ADDON_UPDATE_001.jpg"/>
 
 In the current case, we can see that a new version is available.
 
@@ -23,7 +23,7 @@ In the current case, we can see that a new version is available.
 
 The availability of the update is also visible in the addon's panel.
 
-<img src="http://blscripts.com/asset_management/images/ADDON_UPDATE_002.jpg"/>
+<img src="http://blscripts.com/asset_management_doc/images/ADDON_UPDATE_002.jpg"/>
 
 If you have disabled the option, it is still possible to manually check if 
 an update is available by clicking on the button **"Check for 
@@ -41,6 +41,6 @@ To update the addon, please follow these <a href="/installation/#2-update-instal
      folder
    * finally, create a "config" folder
 
-<img src="http://blscripts.com/asset_management/images/PORTABLE_VERSION.jpg"/>
+<img src="http://blscripts.com/asset_management_doc/images/PORTABLE_VERSION.jpg"/>
 
    * install the addon as explained <a href="/installation/#1-fresh-installation">here</a>

@@ -12,6 +12,7 @@ theme:
 #    name: material
 
 nav:
+  - What's new ?: whats_new.md
   - Installation: installation.md
   - Libraries: libraries.md
   - Support: support.md

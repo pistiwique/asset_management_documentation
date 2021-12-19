@@ -18,14 +18,14 @@ retrieve the library paths stored in the _"custom_filepaths"_ file.
 Open the libraries options (the gear on the right) and click on 
 the operator _"Load Blender 2.79 libraries"_
 
-<img src="http://blscripts.com/asset_management/images/LOAD_BLENDER_2_79_LIBRARIES.jpg" />
+<img src="http://blscripts.com/asset_management_doc/images/LOAD_BLENDER_2_79_LIBRARIES.jpg" />
 
 The filebrowser will open then, navigate to the _"extra_files"_ folder of 
 your old main library.
 
 Finally, double click on the _"custom_filepaths"_ file
 
-<img src="http://blscripts.com/asset_management/images/CUSTOM_FILEPATHS.jpg" />
+<img src="http://blscripts.com/asset_management_doc/images/CUSTOM_FILEPATHS.jpg" />
 
 !!! info " Info"
     
@@ -48,7 +48,7 @@ To load an existing library or to create a new one, the basis is the same.
 Open the libraries options (the gear on the right) and click on 
 the operator _"Load/Create library"_
 
-<img src="http://blscripts.com/asset_management/images/LOAD_CREATE_LIBRARY.jpg"/>
+<img src="http://blscripts.com/asset_management_doc/images/LOAD_CREATE_LIBRARY.jpg"/>
 
 The filebrowser will open.
 
@@ -58,9 +58,9 @@ _"Load/Create library"_ at the bottom of the file browser.
 
 CREATE A NEW LIBRARY
 
-<img src="http://blscripts.com/asset_management/images/CREATE_NEW_LIBRARY.jpg"/>
+<img src="http://blscripts.com/asset_management_doc/images/CREATE_NEW_LIBRARY.jpg"/>
 
 LOAD EXISTING LIBRARY
 
-<img src="http://blscripts.com/asset_management/images/LOAD_EXISTING_LIBRARY.jpg"/>
+<img src="http://blscripts.com/asset_management_doc/images/LOAD_EXISTING_LIBRARY.jpg"/>
 

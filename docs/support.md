@@ -6,7 +6,7 @@
 You can access the discord from the preferences of the addon by clicking on 
 the button provided for this purpose
 
-<img src="http://blscripts.com/asset_management/images/SUPPORT_BUTTON.jpg" />
+<img src="http://blscripts.com/asset_management_doc/images/SUPPORT_BUTTON.jpg" />
 
 or by clicking directly on this link: <a href="https://discord.gg/ctQAdbY" target="_blank">BLScrpits discord</a>
 
@@ -33,7 +33,7 @@ If after these 2 checks the problem persists, contact us on the discord and give
     
     On window, you can turn on the console via _Window< Toggle system console_.
 
-    <img src="http://blscripts.com/asset_management/images/SYSTEM_CONSOLE.jpg"/>
+    <img src="http://blscripts.com/asset_management_doc/images/SYSTEM_CONSOLE.jpg"/>
 
     On MAC and Linux, you will have to start Blender from terminal and 
     reproduce the manipulation leading to the error.
