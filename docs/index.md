@@ -31,6 +31,7 @@ You also have the possibility to pin your favorite categories
 ## IBLs
 <img src="http://blscripts.com/asset_management_doc/images/IBLS.jpg" />
 
-Asset Management also automatically creates an environment node configuration when an LBI is imported.
+Asset Management also automatically creates an environment node 
+configuration when an IBL is imported.
 
 <img src="http://blscripts.com/asset_management_doc/images/IBL_PANEL.jpg" />
