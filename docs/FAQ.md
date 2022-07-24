@@ -31,7 +31,7 @@ update manually"**
 
 ### 4. How to update the addon ?
 
-To update the addon, please follow these <a href="/installation/#2-update-installation">instructions</a>
+To update the addon, please follow these <a href="http://blscripts.com/asset_management_doc/installation/#2-update-installation">instructions</a>
 
 ### 5. How to test the addon on a fresh blender installation
 
@@ -43,4 +43,4 @@ To update the addon, please follow these <a href="/installation/#2-update-instal
 
 <img src="http://blscripts.com/asset_management_doc/images/PORTABLE_VERSION.jpg"/>
 
-   * install the addon as explained <a href="/installation/#1-fresh-installation">here</a>
+   * install the addon as explained <a href="http://blscripts.com/asset_management_doc/installation/#1-fresh-installation">here</a>

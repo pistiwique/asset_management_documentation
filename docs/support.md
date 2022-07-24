@@ -21,9 +21,9 @@ or by clicking directly on this link: <a href="https://discord.gg/ctQAdbY" targe
 Before asking for help, please check these few points:
 
    * make sure you have the latest version of the addon. To verify, please 
-     follow <a href="/FAQ/#3-how-to-know-if-the-addon-is-up-to-date" target="_blank">these instructions</a>
+     follow <a href="http://blscripts.com/asset_management_doc/FAQ/#3-how-to-know-if-the-addon-is-up-to-date" target="_blank">these instructions</a>
    * install the addon on a portable and blank version of blender. If you 
-     don't know how to proceed, please, <a href="/FAQ/#5-how-to-test-the-addon-on-a-fresh-blender-installation">look at here</a>
+     don't know how to proceed, please, <a href="http://blscripts.com/asset_management_doc/FAQ/#5-how-to-test-the-addon-on-a-fresh-blender-installation">look at here</a>
 
 If after these 2 checks the problem persists, contact us on the discord and give us these few informations :
 
