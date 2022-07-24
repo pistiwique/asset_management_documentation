@@ -1,4 +1,40 @@
 # What's new ?
+### v2.7.0
+* Several minor bug fixes
+* Added import options for objects and materials:
+   * for objects:
+      * 'On 3D cursor': import the asset on the 3D cursor
+      * 'Drag': Drag and click to drop the asset in the desired location
+      * 'Drag repeat': Same as 'Drag' but repeats the import after dropping 
+        the asset
+   * for materials:
+     * 'Face picker': Apply the material to the picked faces
+     * 'Active slot': Apply the material to the active slot of the selected 
+       objects
+* Use CTRL+click on the import asset button to change the import behavior
+   * for objects:
+      * if 'On 3D cursor' is enabled, the mode used will be 'Drag and Repeat'.
+      * if 'Drag and reapat' or Drag is enabled, 'On 3D cursor' will be used.
+   * for materials:
+      * if 'Active slot' is enabled, 'Face picker' will be used.
+      * if 'Face picker' is enabled, 'Active slot will be used.'
+* When importing material with the 'Face picker' option enabled, eyedropper 
+  does not take into account objects in wireframe mode.
+* Implemented t3dn_bip module to load icons faster (requires Pillow module 
+  installation otherwise thumbnails will load as usual).
+* Fixed bug on the export with the 'replace asset' option enabled.
+* Added an operator for collapsing all categories and another one for 
+  display the active category.
+* Added an option in the addon preferences to load the UI when opening a 
+  saved scene
+* Added an object/collection toggle when an asset has collections to choose 
+  how to import the asset
+* Modification of the behavior of the "Edit asset" tool. It is no longer 
+  necessary to save the current scene before launching the tool.
+* Fixed a bug with the CPU rendering as well as taking into account the 
+  'Metal' compute device type for MAC
+* Added an operator in the addon preferences to get the logs of thumbnail 
+  rendering
 
 ### v2.6.0
 * Complete rewriting of the addon

@@ -12,14 +12,14 @@ By default, the **"Automatic check for update"** option is enabled in the
 addon 
 preferences.
 You can find it in the **"Options/Addon"** tab of the addon.
-<img src="http://blscripts.com/asset_management_doc/images/ADDON_UPDATE_001.jpg"/>
 
-In the current case, we can see that a new version is available.
+<img src="http://blscripts.com/asset_management_doc/images/ADDON_UPDATE_001.jpg"/>
 
 !!! info "Info about automatic update search"
 
     If this option is enabled, the addon will check for updates only once a day. 
 
+In the current case, we can see that a new version is available.
 
 The availability of the update is also visible in the addon's panel.
 

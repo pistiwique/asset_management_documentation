@@ -35,3 +35,24 @@
    * navigate to the asset_management.zip file and double-click it
    * activate the addon by ticking the checkbox
    * save your preferences (if you have disabled the automatic saving option)
+
+### 3. Installation of the Pillow module (Recommended)
+Since the 2.6.0 version, Asset management integrates the <a href="https://github.com/3dninjas/3dn-bip" target="_blank">3dn-bip</a>
+module which allows to load thumbnails instantly.
+
+This module needs the Pillow library to work. To install it, just click on 
+the button provided in the addon preferences (This operation need few 
+secondes).
+
+<img src="http://blscripts.com/asset_management_doc/images/INSTALL_PILLOW.jpg" />
+
+To take in account the changes, please <font size="+1" color=red><strong>restart blender</strong></font>
+
+!!! info " Info"
+    
+     The Pillow module is not required for the addon to work.
+     If you don't want to install it, the icons will simply load more slowly.
+
+     If you don't see the operator, it simply means that the Pillow module 
+     is already installed
+     
